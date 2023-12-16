@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62162678295",
+    "project_id": "firestorefirestore-4f8be",
+    "storage_bucket": "firestorefirestore-4f8be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62162678295:android:2aba5df42112bb608ea252",
+        "android_client_info": {
+          "package_name": "com.hidayatulfatwa.firestorefirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd-U2-QkwhgiTuJZQgOuH9BHu3FDH5ea8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
